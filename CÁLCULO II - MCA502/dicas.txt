@@ -1,8 +1,13 @@
 casa 1
 casa 2
 casa 3
-
+2
 casa 05
 casa 04
 casa 05
 casa 06
+
+dicas 02 03 04 05 06 07
+casa 03
+
+sou
