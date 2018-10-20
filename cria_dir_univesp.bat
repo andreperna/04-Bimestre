@@ -1,0 +1,7 @@
+mkdir "Semana-01"
+mkdir "Semana-02"
+mkdir "Semana-03"
+mkdir "Semana-04"
+mkdir "Semana-05"
+mkdir "Semana-06"
+mkdir "Semana-07"
